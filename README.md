@@ -31,4 +31,5 @@ LK59.fun
 隐私浏览模式：开启浏览器的隐私模式，避免个人信息泄露。
 
 选择HTTPS网站：确保访问的网站是加密网站，避免个人数据被泄露。
-<span style="display:none;">[Canonical link](）</span>
+
+<span style="display:none;">[Canonical link](https://github.com/mua246/26777 ）</span>
